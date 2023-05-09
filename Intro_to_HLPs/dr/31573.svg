@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_StepForward_18_N_2x" height="36" data-name="S_StepForward_18_N@2x"><defs><style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style></defs><rect data-cppathid="10000" y="4" x="2" width="8" ry="1" rx="1" height="28" class="fill"/><path data-cppathid="10001" d="M16,30.919V5.081A1,1,0,0,1,17.625,4.3L33.774,17.219a1,1,0,0,1,0,1.562L17.625,31.7A1,1,0,0,1,16,30.919Z" class="fill"/></svg>
